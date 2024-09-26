@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24ed6cffeefe704428c40770707d399a, type: 3}
+  m_Name: Data Box
+  m_EditorClassIdentifier: 
+  _listBoxModel:
+  - TypeColorBox: 2
+    BoxItem: {fileID: 521487613141701608, guid: 932847f8517299d4da3d86f623aa2813, type: 3}
+  - TypeColorBox: 3
+    BoxItem: {fileID: 2392433093760687402, guid: 702e6987f1cbb074e9fb5dff7dcda383, type: 3}
+  - TypeColorBox: 4
+    BoxItem: {fileID: 8945618855308526100, guid: a65fd417192ef3349b9a6714e4316d3d, type: 3}
+  - TypeColorBox: 1
+    BoxItem: {fileID: 8399505104217887863, guid: 383e97172fac85445866d1c3eeec6e62, type: 3}
+  - TypeColorBox: 0
+    BoxItem: {fileID: 7911214707394143754, guid: 3829cbf1e2578354da276fb6ddc890e9, type: 3}

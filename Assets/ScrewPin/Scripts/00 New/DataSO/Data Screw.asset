@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50b70c3a47912db49b651dc67693fcda, type: 3}
+  m_Name: Data Screw
+  m_EditorClassIdentifier: 
+  _listScrewModel:
+  - TypeColorScrew: 2
+    ScrewItem: {fileID: 4997486951799873292, guid: 1dab7f71e16bab6449e39ee192457b51, type: 3}
+  - TypeColorScrew: 3
+    ScrewItem: {fileID: 5183629159623010782, guid: f3e6e3078c28a644c86aa26695af0d41, type: 3}
+  - TypeColorScrew: 4
+    ScrewItem: {fileID: 8752404790204085217, guid: 79251b447854b5d468c1f91d63731d00, type: 3}
+  - TypeColorScrew: 1
+    ScrewItem: {fileID: 8242944661136466380, guid: a013b583444236d4e8c527731864398d, type: 3}
+  - TypeColorScrew: 0
+    ScrewItem: {fileID: 5627815670823030582, guid: 629a608a69d4eff45998f06002433a4a, type: 3}
